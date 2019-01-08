@@ -4,4 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 
 echo "this was run automagically"
-echo "this was run automagically TEST"
+echo "this was run automagically TEST123"
